@@ -3,7 +3,7 @@ layout: post
 title:  "Proje Yönetimi"
 author: melike
 categories: [ yazılım, proje yönetimi ]
-image: "https://www.heraklet.com/wp-content/uploads/2020/04/git-ve-github-kullanımı-1-bölüm-heraklet.png"
+image: /assets/images/3.png
 ---
 Hayatımızda birçok proje gerçekleştirmek durumunda kalıyoruz.Peki ama doğru proje yönetimi nasıl olmalıdır? Aklınızdaki tüm soruların cevabını bu yazımda bulabilirsiniz!
 
