@@ -2,7 +2,7 @@
 layout: post
 title:  "About Bundler"
 author: melike
-categories: [ Jekyll ]
+categories: [  ]
 image: assets/images/2.jpg
 rating: 3
 ---
