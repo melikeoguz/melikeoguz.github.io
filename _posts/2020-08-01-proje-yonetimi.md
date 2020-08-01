@@ -3,7 +3,7 @@ layout: post
 title:  "Proje Yönetimi"
 author: melike
 categories: [ yazılım, proje yönetimi ]
-image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
+image: "https://images.unsplash.com/photo-1596162955779-9c8faa3d4e3c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=503&q=80"
 ---
 Hayatımızda birçok proje gerçekleştirmek durumunda kalıyoruz.Peki ama doğru proje yönetimi nasıl olmalıdır? Aklınızdaki tüm soruların cevabını bu yazımda bulabilirsiniz!
 
