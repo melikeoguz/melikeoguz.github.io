@@ -3,7 +3,7 @@ layout: post
 title:  "Powerful things you can do with the Markdown editor"
 author: melike
 categories: [  ]
-image: "https://www.heraklet.com/wp-content/uploads/2020/03/teknik-seo-yapilacaklar-listesi-1.bölüm-heraklet.png"
+image: assets/images/4.png
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
