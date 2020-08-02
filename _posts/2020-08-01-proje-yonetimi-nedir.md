@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proje Yönetimi"
+title:  "Proje Yönetimi Nedir?"
 author: melike
 categories: [ yazılım, proje yönetimi ]
 image: /assets/images/3.png
