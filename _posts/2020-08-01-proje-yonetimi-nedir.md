@@ -3,7 +3,7 @@ layout: post
 title:  "Proje Yönetimi Nedir?"
 author: melike
 categories: [ yazılım, proje yönetimi ]
-image: /assets/images/3.png
+image: /assets/images/2-kapak.png
 ---
 Hayatımızda birçok proje gerçekleştirmek durumunda kalıyoruz.Peki ama doğru proje yönetimi nasıl olmalıdır? Aklınızdaki tüm soruların cevabını bu yazımda bulabilirsiniz!
 
