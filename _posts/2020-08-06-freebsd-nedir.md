@@ -44,7 +44,7 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 <li>FreeBSD beraberinde, ünlü internet sunucusu <b>Apache</b> 'yi getirir.</li>
 
 <li>Grafiksel arabirim olarak çok gelişmiş olmasa da kendine özgün bir zarifliği vardır.</li>
-</br>
+
 <h4>Sanal Makinede FreeBSD Kurulumu</h4>
 
 
