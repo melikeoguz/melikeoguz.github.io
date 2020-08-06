@@ -45,7 +45,8 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 
 <li>Grafiksel arabirim olarak çok gelişmiş olmasa da kendine özgün bir zarifliği vardır.</li>
 
-<h4>Sanal Makinede FreeBSD Kurulumu</h4>
+
+</br><h4>Sanal Makinede FreeBSD Kurulumu</h4>
 
 
 <b>1-</b> Öncelikle FreeBSD indirmek için [buraya tıklayınız](https://www.freebsd.org/where.html)</li>
