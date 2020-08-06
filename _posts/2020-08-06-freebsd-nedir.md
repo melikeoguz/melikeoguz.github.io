@@ -3,7 +3,7 @@ layout: post
 title:  "FreeBSD Nedir?"
 author: melike
 categories: [  ]
-image: assets/images/5-kapak.png
+image: assets/images/freebsd.png
 ---
 FreeBSD Nedir ve niçin bu kadar sık kullanılmaktadır? Tüm bu soruların cevabına yazımı okuyarak ulaşabilirsiniz!
 
