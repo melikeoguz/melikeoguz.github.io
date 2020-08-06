@@ -44,7 +44,7 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 <li>FreeBSD beraberinde, ünlü internet sunucusu <b>Apache</b> 'yi getirir.</li>
 
 <li>Grafiksel arabirim olarak çok gelişmiş olmasa da kendine özgün bir zarifliği vardır.</li>
-
+</br>
 <h4>Sanal Makinede FreeBSD Kurulumu</h4>
 
 
@@ -64,11 +64,7 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 
 ![Adım](assets/images/adim.jpg)
 
-**5-** Daha sonra aşağıdaki gifi referans alarak gereken adımları tamamlayınız.
-
-![Sanal makine açıldı](assets/images/freebsd-once.gif)
-
-**6-** Eğer bütün adımları tek bir video üzerinden izlemek isterseniz aşağıdaki videoya tıklamanız yeterlidir.
+**5-** Eğer bütün adımları tek bir video üzerinden izlemek isterseniz aşağıdaki videoya tıklamanız yeterlidir.
 
 ![FreeBSD Kurulumu](https://www.youtube.com/watch?v=N3CCVqsMxlQ)
 
