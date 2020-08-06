@@ -69,3 +69,7 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 ![FreeBSD Kurulumu](https://www.youtube.com/watch?v=N3CCVqsMxlQ)
 
 Yazımı burada sonlandırarak herkese sağlıklı günler diliyorum..
+
+
+<img src="https://www.kouteknopark.com/wp-content/uploads/2019/10/logo.png" alt="Kurulum"></img>
+
