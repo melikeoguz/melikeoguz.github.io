@@ -5,7 +5,8 @@ author: melike
 categories: [  ]
 image: assets/images/5-kapak.png
 ---
-FreeBSD Nedir ve Niçin bu kadar sık kullanılmaktadır? Tüm bu soruların cevabını yazımı okuyarak ulaşabilirsiniz!
+FreeBSD Nedir ve niçin bu kadar sık kullanılmaktadır? Tüm bu soruların cevabına yazımı okuyarak ulaşabilirsiniz!
+
 ### FreeBSD Nedir?
 
 Merhaba arkadaşlar, bugün sizlere FreeBSD'nin yeni sürümü olan <code>FreeBSD 12.1</code> hakkında bilgi vereceğim. Yazıma başlamadan önce <b>FreeBSD nedir</b> ve <b>neden kullanılır</b> gibi soruları yanıtlamak istiyorum.
