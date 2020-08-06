@@ -58,9 +58,9 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 
 ![Sanal Makine FreeBSD](assets/images/sanal-makine-freebsd.gif)
 
-> Eğer <b>Değişken Boyut</b> seçeneğini kullanırsanız, sistemi kullanırken ayırdığınız boyutu aşsanız bile sisteme programınız yazılmaya devam eder. Eğer <b>Sabit Boyut</b> seçerseniz makine tarafından size bir uyarı mesajı gönderilecektir.</br>
+> Eğer <b>Değişken Boyut</b> seçeneğini kullanırsanız, sistemi kullanırken ayırdığınız boyutu aşsanız bile sisteme programınız yazılmaya devam eder. Eğer <b>Sabit Boyut</b> seçerseniz makine tarafından size bir uyarı mesajı gönderilecektir.
 
-<li> Şimdi ise **Ayarlar > Depolama** seçeneğine tıklayarak bir sürücü ekleyin. Bu sürücü 1.adımda indirmiş olduğumuz **FreeBSD iso dosyasıdır.**</li> 
+<li> Şimdi ise <b>Ayarlar > Depolama</b> seçeneğine tıklayarak bir sürücü ekleyin. Bu sürücü 1.adımda indirmiş olduğumuz <b>FreeBSD iso dosyasıdır.</b></li> 
 
 ![Adım](assets/images/adim.jpg)</br>
 
