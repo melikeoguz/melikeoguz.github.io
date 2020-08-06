@@ -43,29 +43,28 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 <li>Yüksek performanslı ve gelişmiş güvenlik güvenlik önlemlerini beraberinde getirir.
 <li>FreeBSD beraberinde, ünlü internet sunucusu <b>Apache</b> 'yi getirir.</li>
 
-<li>Grafiksel arabirim olarak çok gelişmiş olmasa da kendine özgün bir zarifliği vardır.</li>
-<li></li>
+<li> Grafiksel arabirim olarak çok gelişmiş olmasa da kendine özgün bir zarifliği vardır.</li>
 
 <h4>Sanal Makinede FreeBSD Kurulumu</h4>
 
-
-<b>1-</b> Öncelikle FreeBSD indirmek için [buraya tıklayınız](https://www.freebsd.org/where.html)</br>
-<b>2-</b> Daha sonra aşağıdaki gife bakarak gereken adımları gerçekleştirip indirme işlemini tamamlayınız.</br>
+<ul>
+<li> Öncelikle FreeBSD indirmek için [buraya tıklayınız](https://www.freebsd.org/where.html)</li>
+<li> Daha sonra aşağıdaki gife bakarak gereken adımları gerçekleştirip indirme işlemini tamamlayınız.</li>
 
 ![FreeBSD-download](assets/images/freebsd-download.gif)
 
-<b>3-</b> Sıradaki adımı aşağıdaki gif yardımıyla gerçekleştirebilirsiniz.</br>
+<li> Sıradaki adımı aşağıdaki gif yardımıyla gerçekleştirebilirsiniz.</li>>
 > FreeBSD en az 2 gb bir ram belleğine ihtiyaç duymaktadır. Bu yüzden <b>Memory Size</b> kısmını en az 2000 mb yapmanız gerekmektedir. 
 
 ![Sanal Makine FreeBSD](assets/images/sanal-makine-freebsd.gif)
 
 > Eğer <b>Değişken Boyut</b> seçeneğini kullanırsanız, sistemi kullanırken ayırdığınız boyutu aşsanız bile sisteme programınız yazılmaya devam eder. Eğer <b>Sabit Boyut</b> seçerseniz makine tarafından size bir uyarı mesajı gönderilecektir.</br>
 
-<b>4-</b> Şimdi ise **Ayarlar > Depolama** seçeneğine tıklayarak bir sürücü ekleyin. Bu sürücü 1.adımda indirmiş olduğumuz **FreeBSD iso dosyasıdır.**</br> 
+<li> Şimdi ise **Ayarlar > Depolama** seçeneğine tıklayarak bir sürücü ekleyin. Bu sürücü 1.adımda indirmiş olduğumuz **FreeBSD iso dosyasıdır.**</li> 
 
 ![Adım](assets/images/adim.jpg)</br>
 
-<b>5-<b> Eğer bütün adımları tek bir video üzerinden izlemek isterseniz aşağıdaki videoya tıklamanız yeterlidir.
+<li> Eğer bütün adımları tek bir video üzerinden izlemek isterseniz aşağıdaki videoya tıklamanız yeterlidir.</li>
 
 ![FreeBSD Kurulumu](https://www.youtube.com/watch?v=N3CCVqsMxlQ)
 
