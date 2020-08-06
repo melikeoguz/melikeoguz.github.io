@@ -49,7 +49,7 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 </br><h4>Sanal Makinede FreeBSD Kurulumu</h4>
 
 
-<b>1-</b> Öncelikle FreeBSD indirmek için [buraya tıklayınız](https://www.freebsd.org/where.html)</li>
+<b>1-</b> Öncelikle FreeBSD indirmek için <a href=https://www.freebsd.org/where.html>buraya tıklayınız</a> [buraya tıklayınız](https://www.freebsd.org/where.html)</li>
 **2-** Daha sonra aşağıdaki gife bakarak gereken adımları gerçekleştirip indirme işlemini tamamlayınız.
 
 ![FreeBSD-download](assets/images/freebsd-download.gif)
