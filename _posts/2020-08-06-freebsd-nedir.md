@@ -49,7 +49,7 @@ FreeBSD grafikler için [X Window System](http://www.opengroup.org/tech/desktop/
 
 
 <b>1-</b> Öncelikle FreeBSD indirmek için [buraya tıklayınız](https://www.freebsd.org/where.html)</li>
-**2-** Daha sonra aşağıdaki gife bakarak gereken adımları gerçekleştirip indirme işlemini tamamlayınız.</br>
+**2-** Daha sonra aşağıdaki gife bakarak gereken adımları gerçekleştirip indirme işlemini tamamlayınız.
 
 ![FreeBSD-download](assets/images/freebsd-download.gif)
 
