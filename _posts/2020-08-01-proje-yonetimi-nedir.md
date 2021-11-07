@@ -3,7 +3,7 @@ layout: post
 title:  "Proje Yönetimi Nedir?"
 author: melike
 categories: [ yazılım, proje yönetimi ]
-image: assets/images/zaman-yonetimi-melike-oguz.pngg
+image: assets/images/zaman-yonetimi-melike-oguz.png
 ---
 Hayatımızda birçok proje gerçekleştirmek durumunda kalıyoruz.Peki ama doğru proje yönetimi nasıl olmalıdır? Aklınızdaki tüm soruların cevabını bu yazımda bulabilirsiniz!
 
