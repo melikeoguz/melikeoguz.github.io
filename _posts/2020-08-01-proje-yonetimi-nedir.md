@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proje Yönetimi Nedir?"
+title:  "Remote Çalışma Disiplini Nasıl Sağlanır ?"
 author: melike
 categories: [ yazılım, proje yönetimi ]
 image: assets/images/remote-calisma-disiplini-nasil-saglanir-melike-oguz.png
