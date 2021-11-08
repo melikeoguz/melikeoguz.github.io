@@ -3,7 +3,7 @@ layout: post
 title:  "Remote Çalışma Disiplini Nasıl Sağlanır ?"
 author: melike
 categories: [ yazılım, proje yönetimi ]
-image: assets/images/remote-calisma-disiplini-nasil-saglanir-melike-oguz.png
+image: assets/images/remote-calisma-disiplini-nasil-saglanir-melike-oguz.webp
 ---
 Hayatımızda birçok proje gerçekleştirmek durumunda kalıyoruz.Peki ama doğru proje yönetimi nasıl olmalıdır? Aklınızdaki tüm soruların cevabını bu yazımda bulabilirsiniz!
 
